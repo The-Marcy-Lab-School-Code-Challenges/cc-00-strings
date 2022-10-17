@@ -12,14 +12,14 @@
 
 1. Declare a function named `reverseString` that takes in a string argument and returns the reversed version of the string, without using any `.reverse()` JavaScript methods. **Hint:** How can you use a loop iterate through a string backwards?
 ```
-reverseString("hello")//"olleh"
-reverseString("oo")//"oo"
-reverseString("")//""
+reverseString("hello")  //"olleh"
+reverseString("oo")     //"oo"
+reverseString("")       //""
 ```
 
 Bonus: Declare a function named `reverseUpperCaseString` that takes in a string argument and returns the reversed version of the string with all letter uppercased, without using any `.reverse()` JavaScript methods.
 ```
-reverseUpperCaseString("hello")//"OLLEH"
-reverseUpperCaseString("oo")//"OO"
-reverseUpperCaseString("")//""
+reverseUpperCaseString("hello") //"OLLEH"
+reverseUpperCaseString("oo")    //"OO"
+reverseUpperCaseString("")      //""
 ```
