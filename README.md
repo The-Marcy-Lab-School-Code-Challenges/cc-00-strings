@@ -17,7 +17,7 @@ reverseString("oo")//"oo"
 reverseString("")//""
 ```
 
-Bonus. Declare a function named `reverseUpperCaseString` that takes in a string argument and returns the reversed version of the string with all letter uppercased, without using any `.reverse()` JavaScript methods.
+Bonus: Declare a function named `reverseUpperCaseString` that takes in a string argument and returns the reversed version of the string with all letter uppercased, without using any `.reverse()` JavaScript methods.
 ```
 reverseUpperCaseString("hello")//"OLLEH"
 reverseUpperCaseString("oo")//"OO"
